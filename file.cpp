@@ -14,6 +14,7 @@ int main() {
     cout << "iam testing Git" << endl;
   }
   cout << "& i am learning it" << endl;
+  cout << "Git is easy and fast" << endl;
 
   return 0;
 }
