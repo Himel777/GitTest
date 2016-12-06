@@ -15,6 +15,8 @@ int main() {
   }
   cout << "& i am learning it" << endl;
   cout << "Git is easy and fast" << endl;
+  cout << "hello" << endl;
+  cout << "hello active mode" << endl;
 
   return 0;
 }
