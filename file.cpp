@@ -13,6 +13,7 @@ int main() {
   for(int i=0; i<n; i++) {
     cout << "iam testing Git" << endl;
   }
+  cout << "& i am learning it" << endl;
 
   return 0;
 }
